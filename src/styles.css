@@ -1,0 +1,26 @@
+body {
+  font-family: "Open Sans";
+}
+.form-images img {
+  margin: 10px;
+  border: 2px solid #fff;
+  cursor: pointer;
+}
+.form-images img.selected {
+  border: 2px solid #f90;
+  box-shadow: 0 0 5px #f90;
+}
+.Preview .preview-wrapper {
+  display: inline-block;
+  border: 2px solid #ccc;
+  margin: 15px;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.25);
+  border-radius: 4px;
+  text-align: center;
+  font-family: "Bebas Neue", cursive;
+  background-color: #000;
+  color: #fff;
+  font-size: 2.5em;
+  text-shadow: 0 0 3px #ccc;
+  letter-spacing: 2px;
+}
